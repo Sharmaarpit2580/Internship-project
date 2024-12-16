@@ -27,7 +27,7 @@ header{
 }
 header .logo{
     position: relative;
-    color: #000;
+    color: goldenrod;
     font-size: 30px;
     text-decoration: none;
     text-transform: uppercase;
@@ -58,7 +58,7 @@ header .navbar a:hover{
     margin: 60px 100px;
 }
 .content .info h2{
-    color: burlywood;
+    color: brown;
     font-family: 50px;
     text-transform: uppercase;
     font-weight: 800;
@@ -79,7 +79,7 @@ header .navbar a:hover{
 }
 .content .info-btn{
 color: #fff;
-background: #226A80;
+background: red;
 text-decoration: none;
 text-transform: uppercase;
 font-weight: 700;
@@ -89,7 +89,7 @@ border-radius: 20px;
 transition: 0.3s;
 }
 .content .info-btn:hover{
-    background: #0C4F80;
+    background: indianred;
 }
 .social-icons{
     display: flex;
